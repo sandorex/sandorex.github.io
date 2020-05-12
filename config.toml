@@ -1,0 +1,35 @@
+author = "Aleksandar Radivojević"
+baseurl = "https://sandorex.github.io/"
+copyright = "Copyright © 2020, Aleksandar Radivojević; all rights reserved."
+canonifyurls = true
+paginate = 5
+theme = "alageek"
+title = "Sandorex"
+languageCode = "en-us"
+
+[params]
+copyright = "© 2020 by Aleksandar Radivojević"
+copyrightUrl = "https://creativecommons.org/licenses/by/4.0/"
+faviconfile = "/img/logo.png"
+logofile = "/img/logo.png"
+highlightjs = true
+toc = true
+posts_navigation = true
+progressively = true
+github = "sandorex"
+gitlab = "sandorex"
+linkedin = "sandorex"
+email = "rzhw3h@gmail.com"
+
+[[menu.primary]]
+identifier = "blog"
+name = "Blog"
+url = "/blog/"
+weight = 10
+
+[[menu.primary]]
+identifier = "story"
+name = "Story"
+url = "/story/"
+weight = 20
+
