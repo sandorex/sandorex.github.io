@@ -3,7 +3,7 @@ name: Github Pages CI
 on:
   push:
     branches:
-      - master
+      - source
 
 jobs:
   deploy:
