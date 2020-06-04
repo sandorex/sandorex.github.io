@@ -1,10 +1,18 @@
-<!-- redirects to {{ .Site.BaseURL }}{{ .Params.redirectURL }}, thats it -->
+<!-- redirects to redirectURL -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv = "refresh" content = "0; url = {{ .Site.BaseURL }}{{ .Params.redirectURL }}" />
+    {{ $delay := .Params.redirectDelay | default 0 -}}
+    {{- if hasPrefix .Params.redirectURL "/" -}}
+    <meta http-equiv="refresh" content="{{ $delay }}; url={{ .Site.BaseURL }}{{ substr .Params.redirectURL 1 }}" />
+    {{- else -}}
+    <meta http-equiv="refresh" content="{{ $delay }}; url={{ .Params.redirectURL }}" />
+    {{- end}}
 </head>
 <body>
+    {{ if gt $delay 0 }}
+    {{ .Content }}
+    {{ end }}
 </body>
 </html>

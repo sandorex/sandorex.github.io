@@ -1,5 +1,5 @@
 author = "Aleksandar Radivojević"
-baseurl = "https://sandorex.github.io"
+baseurl = "https://sandorex.github.io/"
 copyright = "Copyright © 2020, Aleksandar Radivojević; all rights reserved."
 canonifyurls = true
 paginate = 5
