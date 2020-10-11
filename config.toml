@@ -36,3 +36,9 @@ name = "Story"
 url = "/story/"
 weight = 20
 
+[[menu.primary]]
+identifier = "cheatsheets"
+name = "Cheatsheets"
+url = "/cheatsheets/"
+weight = 30
+
