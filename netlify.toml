@@ -11,3 +11,4 @@ HUGO_ENABLEGITINFO = "true"
 from = "/*"
 to = "https://sandorex.github.io/:splat"
 status = 200
+force = true
