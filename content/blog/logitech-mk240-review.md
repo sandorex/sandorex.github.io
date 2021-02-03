@@ -46,7 +46,7 @@ The keyboard can act erratically if plugged in an USB that has a lot of noise, w
 ## Possible Annoyances
 - There is no indication of caps lock, which i don't use anyways but just in case you should know about that
 
-- The mouse wheel is awful as i've said already
+- The mouse wheel is awful as i've said already (i've found a remedy that makes it less awful, look into fixes section below)
 
 - I have not been using it long enough to test the batteries (they are included in the box) but there is 2 AAA batteries in both the keyboard and the mouse
 
@@ -55,6 +55,15 @@ The keyboard can act erratically if plugged in an USB that has a lot of noise, w
 - Keyboard does not have an on/off switch (the mouse does) so you cannot turn it off without taking out the batteries, this kinda annoyed me because i accidentally pressed keys quite often
 
 - Mouse is clicky and so is the keyboard, the keyboard is not that bad as in to wake someone up but don't expect silence
+
+- The batteries are pretty crappy and the mouse uses ton of power so batteries wont last more than few months except if you barely use it at all
+
+## Mouse Fixes (written on Feb 2 2021, few months of use)
+- The wheel may not work properly if dirt gets in the wheel and obstruct the sensor, so either blow on it or use compressed air, opening it is optional but recommended (not that hard one screw below the batteries and clamps all around)
+
+- The wheel is pressed by a metal spring from the left side which means if you apply pressure to the right while rotating it may skip more, the spring was pretty loose on mine and i've pressed in into the wheel more after opening it up
+
+- The upper plastic from which the left and right buttons are cut out is loose and can be moved, (*this may or may not have been from my professional opening of the device*) it makes the clicks miss sometimes and require more pressure also sometimes obstructs the wheel from rotating by pressing into it, i've fixed it by spewing hot glue over the clamps that hold the upper plastic together with the middle piece
 
 ## Conclusion
 Overall the combo is great, i've been loving it for 30 days now and it has been working wonderfully, and i've learned it's even spillproof!
