@@ -4,8 +4,8 @@ date = "2020-05-12"
 menu = "main"
 +++
 
-My name is **Aleksandar Radivojević**, im from a small town (population of ~32k) in Serbia
+Im a nerdy person from small town in Serbia\
+I have quite many interests but primarly programming and electrical engineering
 
-I love knowledge, my main focus is programming and electronics, other hobbies include books, light novels, comic books and linguistics
-
-The nickname **Sandorex** is derived from [**Sándor** (Hungerian version of Alexander)](https://en.wikipedia.org/wiki/S%C3%A1ndor)
+Some particular things i am currently focused on
+- [Compacity Fonts Block](https://sandorex.github.io/compacity-fonts/preview?toggled&font=block), font made to be as compact as possible inspired by [dotsies](https://dotsies.org)
