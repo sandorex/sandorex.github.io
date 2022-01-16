@@ -48,7 +48,9 @@ The keyboard can act erratically if plugged in an USB that has a lot of noise, w
 
 - The mouse wheel is awful as i've said already (i've found a remedy that makes it less awful, look into fixes section below)
 
-- I have not been using it long enough to test the batteries (they are included in the box) but there is 2 AAA batteries in both the keyboard and the mouse
+- I have not been using it long enough to test the batteries (they are included in the box) but there is 2 AAA batteries in both the keyboard and the mouse  
+*(update, the batteries in the keyboard have not yet discharged after 297 days but the mouse dicharges in about ~1.5 months on cheapest batteries)*
+*(update 2, the batteries in the keyboard are still rocking in 2022, now im testing rechargable NiMH will probably do update how it goes)*
 
 - Mouse automatically turns off after a while of standby and may lag at first movement or click when waking up, while i don't really mind this it may be annoying for someone
 
