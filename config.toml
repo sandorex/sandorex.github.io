@@ -1,6 +1,6 @@
 author = "Aleksandar Radivojević"
-baseurl = "https://sandorex.xyz/"
-copyright = "Copyright © 2020, Aleksandar Radivojević; all rights reserved."
+baseurl = "https://sandorex.github.io/"
+copyright = "Copyright © 2020-2022, Aleksandar Radivojević; all rights reserved."
 canonifyurls = true
 paginate = 5
 theme = "alageek"
@@ -11,7 +11,7 @@ languageCode = "en-us"
 blog = "/:year/:month/:slug"
 
 [params]
-copyright = "© 2020 by Aleksandar Radivojević"
+copyright = "© 2020-2022 by Aleksandar Radivojević"
 copyrightUrl = "https://creativecommons.org/licenses/by/4.0/"
 faviconfile = "/img/logo.png"
 logofile = "/img/logo.png"
